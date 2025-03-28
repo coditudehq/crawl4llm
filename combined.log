@@ -1,0 +1,26 @@
+{"level":"info","message":"Getting scores for 5 docs","timestamp":"2025-03-28T08:59:56.216Z"}
+{"level":"info","message":"Partition 1: 5 docs","timestamp":"2025-03-28T08:59:56.217Z"}
+{"level":"info","message":"Getting scores for 5 docs","timestamp":"2025-03-28T09:02:17.238Z"}
+{"level":"info","message":"Partition 1: 5 docs","timestamp":"2025-03-28T09:02:17.239Z"}
+{"level":"info","message":"Getting scores for 5 docs","timestamp":"2025-03-28T09:03:26.957Z"}
+{"level":"info","message":"Partition 1: 5 docs","timestamp":"2025-03-28T09:03:26.958Z"}
+{"level":"info","message":"docHitRate = 0.00","timestamp":"2025-03-28T09:03:27.037Z"}
+{"level":"info","message":"Size after put: 0","timestamp":"2025-03-28T09:03:56.170Z"}
+{"level":"info","message":"Starting from scratch","timestamp":"2025-03-28T09:03:56.172Z"}
+{"level":"info","message":"sizeAfterPop = 0.00","timestamp":"2025-03-28T09:03:56.172Z"}
+{"level":"info","message":"Size after put: 4","timestamp":"2025-03-28T09:09:39.689Z"}
+{"level":"info","message":"Starting from scratch","timestamp":"2025-03-28T09:09:39.690Z"}
+{"level":"info","message":"length_score = 170.00","timestamp":"2025-03-28T09:09:39.690Z"}
+{"level":"info","message":"sizeAfterPop = 0.00","timestamp":"2025-03-28T09:09:39.690Z"}
+{"level":"info","message":"Size after put: 5","timestamp":"2025-03-28T09:10:27.712Z"}
+{"level":"info","message":"Starting from scratch","timestamp":"2025-03-28T09:10:27.713Z"}
+{"level":"info","message":"length_score = 154.80","timestamp":"2025-03-28T09:10:27.714Z"}
+{"level":"info","message":"sizeAfterPop = 0.00","timestamp":"2025-03-28T09:10:27.714Z"}
+{"level":"info","message":"totalOutlinks = 15.00","timestamp":"2025-03-28T09:10:27.794Z"}
+{"level":"info","message":"totalUniqueOutlinks = 7.00","timestamp":"2025-03-28T09:10:27.794Z"}
+{"level":"info","message":"totalUniqueOutlinksUnvisited = 3.00","timestamp":"2025-03-28T09:10:27.794Z"}
+{"level":"info","message":"expansionRatio = 3.00","timestamp":"2025-03-28T09:10:27.795Z"}
+{"level":"info","message":"expansionRatioUnique = 1.40","timestamp":"2025-03-28T09:10:27.795Z"}
+{"level":"info","message":"expansionRatioUniqueUnvisited = 0.60","timestamp":"2025-03-28T09:10:27.795Z"}
+{"level":"info","message":"unvisitedRatio = 0.43","timestamp":"2025-03-28T09:10:27.795Z"}
+{"level":"info","message":"Size after put: 3","timestamp":"2025-03-28T09:10:27.872Z"}

@@ -1,0 +1,12 @@
+cw22_root_path: ./data/clueweb22
+seed_docs_file: seed.txt
+output_dir: crawl_results/seed_10k_crawl_20m_length
+num_selected_docs_per_iter: 10000
+num_workers: 4
+save_state_every: 100
+max_num_docs: 20000000
+selection_method: length_score
+order: desc
+rating_methods:
+  - type: length
+    name: length_score

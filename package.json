@@ -1,0 +1,21 @@
+{
+  "name": "js-craw4llm",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of Craw4LLM - Efficient Web Crawling for LLM Pretraining",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "heap": "^0.2.7",
+    "winston": "^3.11.0",
+    "yaml": "^2.3.4",
+    "worker-threads": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
